@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/Wycode-fish/Wycode-fish.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Sorry about the redirection. The failure of the Mix server has made all my projects disappear.
+So I made this temporary content sheet on my Chinese blog to direct to my previous work.
+
+Hope you don't miss anything if you're interested in what I've done.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
