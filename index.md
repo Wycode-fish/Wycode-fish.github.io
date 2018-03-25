@@ -4,7 +4,7 @@
 > Sorry about the redirection. The failure of the Mix server has made all my projects on my website disappear. So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page. Hope you don't miss anything if you're interested in my stuff.
 
 <br />
-***
+___
 <br />
 > ## Simple Prototype of Platform Game with SDL2 | C++
 
@@ -16,7 +16,7 @@ Further improvement on UI and art design is definitely needed. If you have any i
 - [Github Link](https://github.com/Wycode-fish/Popeye-Platform-Game-SDL2) | [Youtube Link](https://www.youtube.com/watch?v=-vvl9IDg0vU)
 
 <br />
-***
+___
 <br />
 
 > ## Web Multi-Player Othello Game | Phoenix/ReactJS
@@ -30,7 +30,7 @@ Solo play mode is enabled by implementation of MiniMax algorithm as Game AI.
 - [Game URL](http://othello.luqi.eason.space/)
 
 <br />
-***
+___
 <br />
 
 > ## Web Task Tracker with Time-Block Management | Phoenix/Elixir
@@ -43,7 +43,7 @@ Front end is supported by Bootstrap and the data transfer between front end comp
 - [URL](http://tasks2.eason.space/)
 
 <br />
-***
+___
 <br />
 
 > ## Sprite Previewer | p5.js
@@ -58,7 +58,7 @@ Besides p5.js, I also used JQuery and bootstrap.
 - [URL](http://sprite.eason.space/)
 
 <br />
-***
+___
 <br />
 
 > ## Rammission | Unity 3D
@@ -73,7 +73,7 @@ I still think we got the best game on my site for this GGJ.:)
 - [Youtube Trailer](https://www.youtube.com/watch?v=eNMZHBhoarg&feature=youtu.be)
 
 <br />
-***
+___
 <br />
 
 > ## Real-time Object Recognition on Android | OpenCV/Android
@@ -88,7 +88,7 @@ I also implemented JNI in order to improve the performance rate of the Android a
 - [Github Link](https://github.com/Wycode-fish/Real-time-Object-Recognition-on-Android)
 
 <br />
-***
+___
 <br />
 
 > ## OpenCV Classifier Training | OpenCV/C++
@@ -101,7 +101,7 @@ You can find my performance evaluation script (python) and pre-processing script
 - [Github Link](https://github.com/Wycode-fish/OpenCV-Classifier-Training)
 
 <br />
-***
+___
 <br />
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
