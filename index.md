@@ -6,6 +6,7 @@
 <br />
 
 ------
+
 <br />
 > ## Simple Prototype of Platform Game with SDL2 | C++
 
@@ -14,11 +15,16 @@
 Currently it's just a prototype about how to make a prototype of 2D platform game using SDL in C++. Tile maps are created via self-made tile editor developed with Qt library. And a sprite previewer is implemented for the game character design. All the works can be found on my Github. The design of the component systems are pretty satisying:) I believe it can be re-used for further platformer developemnt.
 
 Further improvement on UI and art design is definitely needed. If you have any idea, do contact me.
-- [Github Link](https://github.com/Wycode-fish/Popeye-Platform-Game-SDL2) | [Youtube Link](https://www.youtube.com/watch?v=-vvl9IDg0vU)
+- [Github Link](https://github.com/Wycode-fish/Popeye-Platform-Game-SDL2) 
+- [Youtube Link](https://www.youtube.com/watch?v=-vvl9IDg0vU)
+
 
 <br />
-___
+
+------
+
 <br />
+
 
 > ## Web Multi-Player Othello Game | Phoenix/ReactJS
 
@@ -30,9 +36,15 @@ Solo play mode is enabled by implementation of MiniMax algorithm as Game AI.
 - [Github Link](https://github.com/Wycode-fish/Multi-Player-Othello-Game) 
 - [Game URL](http://othello.luqi.eason.space/)
 
+
+
 <br />
-___
+
+------
+
 <br />
+
+
 
 > ## Web Task Tracker with Time-Block Management | Phoenix/Elixir
 
@@ -43,9 +55,14 @@ Front end is supported by Bootstrap and the data transfer between front end comp
 - [Github Link](https://github.com/Wycode-fish/WEBDEV-TASK-TRACKER-2) 
 - [URL](http://tasks2.eason.space/)
 
+
 <br />
-___
+
+------
+
 <br />
+
+
 
 > ## Sprite Previewer | p5.js
 
@@ -58,9 +75,14 @@ Besides p5.js, I also used JQuery and bootstrap.
 - [Github Link](https://github.com/Wycode-fish/Sprite-Previewer) 
 - [URL](http://sprite.eason.space/)
 
+
+
 <br />
-___
+
+------
+
 <br />
+
 
 > ## Rammission | Unity 3D
 
@@ -73,9 +95,15 @@ I still think we got the best game on my site for this GGJ.:)
 - [GGJ URL](https://globalgamejam.org/2018/games/rammission) 
 - [Youtube Trailer](https://www.youtube.com/watch?v=eNMZHBhoarg&feature=youtu.be)
 
+
+
 <br />
-___
+
+------
+
 <br />
+
+
 
 > ## Real-time Object Recognition on Android | OpenCV/Android
 
@@ -88,9 +116,14 @@ Basically, the final application is able to perform 10-class object recognition 
 I also implemented JNI in order to improve the performance rate of the Android app which enables me to directly invoke C library in Android.
 - [Github Link](https://github.com/Wycode-fish/Real-time-Object-Recognition-on-Android)
 
+
 <br />
-___
+
+------
+
 <br />
+
+
 
 > ## OpenCV Classifier Training | OpenCV/C++
 
@@ -101,9 +134,14 @@ As I mentioned above, the training process of OpenCV classifier was crucifying. 
 You can find my performance evaluation script (python) and pre-processing script and tools (shell) in my repository.
 - [Github Link](https://github.com/Wycode-fish/OpenCV-Classifier-Training)
 
+
+
 <br />
-___
+
+------
+
 <br />
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
