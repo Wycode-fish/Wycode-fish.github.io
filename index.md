@@ -23,7 +23,8 @@ Further improvement on UI and art design is definitely needed. If you have any i
 A web application based on Phoenix and ReactJS. Multiple game rooms is allowed via Elixir Agent implementation on server side. Audience are allowed for each game room without interfering game players.
 ReactJS-based front end transmit data via channel broadcast. 
 Solo play mode is enabled by implementation of MiniMax algorithm as Game AI.
-- [Github Link](https://github.com/Wycode-fish/Multi-Player-Othello-Game) | [Game URL](http://othello.luqi.eason.space/)
+- [Github Link](https://github.com/Wycode-fish/Multi-Player-Othello-Game) 
+- [Game URL](http://othello.luqi.eason.space/)
 
 <br />
 > ## Web Task Tracker with Time-Block Management | Phoenix/Elixir
@@ -32,7 +33,8 @@ Solo play mode is enabled by implementation of MiniMax algorithm as Game AI.
 <br />
 A web application based on Phoenix and PostgreSQL database, where USERs and TASKs resources are both managed. Interaction with PostgreSQL is achieved by implementation of Ecto. Users are able to record and edit each time period they've spent on the current projects.
 Front end is supported by Bootstrap and the data transfer between front end component and server is done by AJAX.
-- [Github Link](https://github.com/Wycode-fish/WEBDEV-TASK-TRACKER-2) | [URL](http://tasks2.eason.space/)
+- [Github Link](https://github.com/Wycode-fish/WEBDEV-TASK-TRACKER-2) 
+- [URL](http://tasks2.eason.space/)
 
 <br />
 > ## Sprite Previewer | p5.js
@@ -43,7 +45,8 @@ I have been interested in p5.js for quite a long time. So I decided to give it a
 
 Basically this is just a previewer which allows you select out the frames you wanted from a large sprite and see the effect of the animation or download them. FPS control, background color change and frame size adjustment are implemented for better preview effect. 
 Besides p5.js, I also used JQuery and bootstrap.
-- [Github Link](https://github.com/Wycode-fish/Sprite-Previewer) | [URL](http://sprite.eason.space/)
+- [Github Link](https://github.com/Wycode-fish/Sprite-Previewer) 
+- [URL](http://sprite.eason.space/)
 
 <br />
 > ## Rammission | Unity 3D
@@ -53,7 +56,9 @@ Besides p5.js, I also used JQuery and bootstrap.
 It is probably the reason why i decide to take on a career of game development. This global game jam changes my view about game development and really motivate me to becaome a better programmer. Working along side with guys like Billy, Luke and Anna is both enjoyable and stressing. 
 
 I still think we got the best game on my site for this GGJ.:)
-- [Github Link](https://github.com/heyx3/Rammission) | [GGJ URL](https://globalgamejam.org/2018/games/rammission) | [Youtube Trailer](https://www.youtube.com/watch?v=eNMZHBhoarg&feature=youtu.be)
+- [Github Link](https://github.com/heyx3/Rammission) 
+- [GGJ URL](https://globalgamejam.org/2018/games/rammission) 
+- [Youtube Trailer](https://www.youtube.com/watch?v=eNMZHBhoarg&feature=youtu.be)
 
 <br />
 > ## Real-time Object Recognition on Android | OpenCV/Android
