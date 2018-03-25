@@ -126,8 +126,9 @@ I also implemented JNI in order to improve the performance rate of the Android a
 
 
 > ## OpenCV Classifier Training | OpenCV/C++
-
+<br />
 ![OpenCV-classifier-training](/images/opencv.png)
+<br />
 <br />
 As I mentioned above, the training process of OpenCV classifier was crucifying. Originally, OpenCV provided its training method focused on haar features extraction, which was what I used initially. Well, all I can say is that the training speed of this haar training method with adaboost algorithm is  extremely frustrating. Later on, I adopted cascade training instead, which is a relatively new method released by OpenCV to replace the original haar training. Indeed, it was faster. But the problem is that it doesn't come along with a proper performance evaluation method as opencv_haartraining does with opencv_performance. So users have to write their own testing script. And still, to improve the precision of the classifiers, some scripts for pre-processing needs to be written.
 
@@ -143,32 +144,20 @@ You can find my performance evaluation script (python) and pre-processing script
 <br />
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> ## Face++ Web App | Servlet
+<br />
+![face++](/images/face++.png)
+<br />
+<br />
+This is a servlet project which performs facial features extraction via data communication with Face++ server, which renders cutting-edge facial recognition service in China. Basically, I was using socket communication with the Web API key provided by Tsinghua University official, to utilize the feature point landmarking functionality from Face++. The result returned in JSON form will then be parsed for further use and display.
 
-markdown
-Syntax highlighted code block
-`
-# Header 1
-## Header 2
-### Header 3
+- [Github Link](https://github.com/Wycode-fish/OpenCV-Classifier-Training)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<br />
 
-[Link](url) and ![Image](src)
-`
+------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br />
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wycode-fish/Wycode-fish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
