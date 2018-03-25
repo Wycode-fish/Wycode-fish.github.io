@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+## Project Index Page
 
 ```
 You can use the [editor on GitHub](https://github.com/Wycode-fish/Wycode-fish.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ```
-Sorry about the redirection. The failure of the Mix server has made all my projects disappear.
-So I made this temporary content sheet on my Chinese blog to direct to my previous work.
+> **Sorry** about the redirection. The failure of the Mix server has made all my projects disappear.
+> So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page.
 
-Hope you don't miss anything if you're interested in what I've done.
+> Hope you don't miss anything if you're interested in my stuff.
 
 ### Markdown
 
