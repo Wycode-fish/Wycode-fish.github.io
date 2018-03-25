@@ -5,10 +5,8 @@ You can use the [editor on GitHub](https://github.com/Wycode-fish/Wycode-fish.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ```
-> **Sorry** about the redirection. The failure of the Mix server has made all my projects disappear.
-> So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page.
-
-> Hope you don't miss anything if you're interested in my stuff.
+> ## **Sorry** ##about the redirection. The failure of the Mix server has made all my projects disappear.
+> So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page. Hope you don't miss anything if you're interested in my stuff.
 
 ### Markdown
 
