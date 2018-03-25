@@ -4,7 +4,7 @@
 > Sorry about the redirection. The failure of the Mix server has made all my projects on my website disappear. So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page. Hope you don't miss anything if you're interested in my stuff.
 
 <br />
-----------------------------------------------------------------------------------
+***
 <br />
 > ## Simple Prototype of Platform Game with SDL2 | C++
 
@@ -16,6 +16,9 @@ Further improvement on UI and art design is definitely needed. If you have any i
 - [Github Link](https://github.com/Wycode-fish/Popeye-Platform-Game-SDL2) | [Youtube Link](https://www.youtube.com/watch?v=-vvl9IDg0vU)
 
 <br />
+***
+<br />
+
 > ## Web Multi-Player Othello Game | Phoenix/ReactJS
 
 ![othello](/images/othello.png)
@@ -27,6 +30,9 @@ Solo play mode is enabled by implementation of MiniMax algorithm as Game AI.
 - [Game URL](http://othello.luqi.eason.space/)
 
 <br />
+***
+<br />
+
 > ## Web Task Tracker with Time-Block Management | Phoenix/Elixir
 
 ![task-tracker](/images/task-tracker.png)
@@ -37,6 +43,9 @@ Front end is supported by Bootstrap and the data transfer between front end comp
 - [URL](http://tasks2.eason.space/)
 
 <br />
+***
+<br />
+
 > ## Sprite Previewer | p5.js
 
 ![sprite-previewer](/images/sprite-previewer.png)
@@ -49,6 +58,9 @@ Besides p5.js, I also used JQuery and bootstrap.
 - [URL](http://sprite.eason.space/)
 
 <br />
+***
+<br />
+
 > ## Rammission | Unity 3D
 
 ![rammission](/images/rammission.png)
@@ -61,6 +73,9 @@ I still think we got the best game on my site for this GGJ.:)
 - [Youtube Trailer](https://www.youtube.com/watch?v=eNMZHBhoarg&feature=youtu.be)
 
 <br />
+***
+<br />
+
 > ## Real-time Object Recognition on Android | OpenCV/Android
 
 ![real-time-recognition-app](/images/android2.png)
@@ -73,6 +88,9 @@ I also implemented JNI in order to improve the performance rate of the Android a
 - [Github Link](https://github.com/Wycode-fish/Real-time-Object-Recognition-on-Android)
 
 <br />
+***
+<br />
+
 > ## OpenCV Classifier Training | OpenCV/C++
 
 ![OpenCV-classifier-training](/images/opencv.png)
@@ -82,6 +100,9 @@ As I mentioned above, the training process of OpenCV classifier was crucifying. 
 You can find my performance evaluation script (python) and pre-processing script and tools (shell) in my repository.
 - [Github Link](https://github.com/Wycode-fish/OpenCV-Classifier-Training)
 
+<br />
+***
+<br />
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
