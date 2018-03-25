@@ -1,7 +1,7 @@
 ## Project Index Page
 
-> ## **Sorry** 
-> Sorry about the redirection. The failure of the Mix server has made all my projects on my website disappear. So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page. Hope you don't miss anything if you're interested in my stuff.
+
+> Sorry about the redirection. The failure of the Wix server has made all my projects on my website disappear. So for you guys can keep track of what I've done, I made this temporary content sheet on GitHub page. Hope you don't miss anything if you're interested in my stuff.
 
 <br />
 
