@@ -126,8 +126,11 @@ I also implemented JNI in order to improve the performance rate of the Android a
 
 
 > ## OpenCV Classifier Training | OpenCV/C++
+
 <br />
+
 ![OpenCV-classifier-training](/images/opencv.png)
+
 <br />
 <br />
 As I mentioned above, the training process of OpenCV classifier was crucifying. Originally, OpenCV provided its training method focused on haar features extraction, which was what I used initially. Well, all I can say is that the training speed of this haar training method with adaboost algorithm is  extremely frustrating. Later on, I adopted cascade training instead, which is a relatively new method released by OpenCV to replace the original haar training. Indeed, it was faster. But the problem is that it doesn't come along with a proper performance evaluation method as opencv_haartraining does with opencv_performance. So users have to write their own testing script. And still, to improve the precision of the classifiers, some scripts for pre-processing needs to be written.
@@ -145,13 +148,16 @@ You can find my performance evaluation script (python) and pre-processing script
 
 
 > ## Face++ Web App | Servlet
+
 <br />
+
 ![face++](/images/face++.png)
+
 <br />
 <br />
 This is a servlet project which performs facial features extraction via data communication with Face++ server, which renders cutting-edge facial recognition service in China. Basically, I was using socket communication with the Web API key provided by Tsinghua University official, to utilize the feature point landmarking functionality from Face++. The result returned in JSON form will then be parsed for further use and display.
 
-- [Github Link](https://github.com/Wycode-fish/OpenCV-Classifier-Training)
+- [Github Link](https://github.com/Wycode-fish/Face-WebApp)
 
 
 
