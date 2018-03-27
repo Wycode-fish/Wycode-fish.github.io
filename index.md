@@ -8,18 +8,18 @@
 ------
 
 <br />
-> ## Simple Prototype of Platform Game with SDL2 | C++
+> ## Ninja Go! SDL-based Platform Game | C++
 
 <br />
 
-![popeye-platformer](/images/platformer.png)
+![ninja-go](/images/mainmenu.png)
 
 <br />
 Currently it's just a prototype about how to make a prototype of 2D platform game using SDL in C++. Tile maps are created via self-made tile editor developed with Qt library. And a sprite previewer is implemented for the game character design. All the works can be found on my Github. The design of the component systems are pretty satisying:) I believe it can be re-used for further platformer developemnt.
 
 Further improvement on UI and art design is definitely needed. If you have any idea, do contact me.
 - [Github Link](https://github.com/Wycode-fish/Popeye-Platform-Game-SDL2) 
-- [Youtube Link](https://www.youtube.com/watch?v=-vvl9IDg0vU)
+- [Youtube Link](https://www.youtube.com/watch?v=91dlGMSSYlQ)
 
 
 <br />
