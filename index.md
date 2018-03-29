@@ -20,6 +20,7 @@ Currently it's just a prototype about how to make a prototype of 2D platform gam
 Further improvement on UI and art design is definitely needed. If you have any idea, do contact me.
 - [Github Link](https://github.com/Wycode-fish/Popeye-Platform-Game-SDL2) 
 - [Youtube Link](https://www.youtube.com/watch?v=91dlGMSSYlQ)
+- [Intro Page](https://www.games.eason.space/ninja-go)
 
 
 <br />
